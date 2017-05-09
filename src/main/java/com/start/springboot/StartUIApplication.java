@@ -16,5 +16,6 @@ public class StartUIApplication {
 
 		System.out.println("Spring Boot Aws Demo Appkication Started...");
 
+
 	}
 }
